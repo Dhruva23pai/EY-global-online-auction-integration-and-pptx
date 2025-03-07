@@ -16,42 +16,7 @@ This is an online auction platform where users can bid on various products. The 
 - Countdown timer for auctions
 - Product categories and search functionality
 
-## Installation
 
-### Prerequisites
-- Node.js (v14.x or higher)
-- MongoDB (v4.x or higher)
-
-### Steps
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/theavnishkumar/online-auction-system.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd online-auction-system
-   ```
-3. Install dependencies for the backend:
-   ```bash
-   cd server
-   npm install
-   ```
-4. Install dependencies for the frontend:
-   ```bash
-   cd ../client
-   npm install
-   ```
-5. Start the MongoDB server and configure the environment variables.
-6. Run the backend server:
-   ```bash
-   cd server
-   npm start
-   ```
-7. Run the frontend development server:
-   ```bash
-   cd ../client
-   npm start
-   ```
 
 ## Usage
 
@@ -70,10 +35,6 @@ This is an online auction platform where users can bid on various products. The 
   - `pages/` - Application pages
   - `redux/` - Redux slices and store
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and create a pull request with your changes. Ensure your code follows the project's coding standards.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
